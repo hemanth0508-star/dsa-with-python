@@ -14,3 +14,19 @@ if flag:
     print("True")
 else:
     print("False")
+    
+    
+nums=[1,2,3,4]
+flag=False
+for i in range(len(nums)-1):
+    for j in range(i+1,len(nums)):
+        if nums[i]==nums[j]:
+            flag=True
+            break
+if flag:
+    print("True")
+else:
+    print("False")
+        
+        
+        
