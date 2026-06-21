@@ -1,3 +1,7 @@
+'''
+Given a string s, reverse only all the vowels in the string and return it.
+The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in both lower and upper cases, more than once.
+'''
 
 s="leetcode"
 vowels="AEIOUaeiou"
@@ -11,7 +15,7 @@ while i<j:
         j-=1
     if s[i] in vowels and s[j] in vowels:
         if i<j:
-            temp=s[i]
+            temp=s[i]   
             s[i]=s[j]
             s[j]=temp
             i+=1
@@ -19,21 +23,3 @@ while i<j:
 s=''.join(s)
 print(s)
         
-'''
-Example 1:
-
-Input: s = "A man, a plan, a canal: Panama"
-Output: true
-Explanation: "amanaplanacanalpanama" is a palindrome.
-Example 2:
-
-Input: s = "race a car"
-Output: false
-Explanation: "raceacar" is not a palindrome.
-Example 3:
-
-Input: s = " "
-Output: true
-Explanation: s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-'''
