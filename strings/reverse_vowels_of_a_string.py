@@ -1,13 +1,4 @@
-'''
-Input: s = "IceCreAm"
-Output: "AceCreIm"
-Explanation:
-The vowels in s are ['I', 'e', 'e', 'A']. On reversing the vowels, s becomes "AceCreIm".
 
-Example 2:
-Input: s = "leetcode"
-Output: "leotcede"
-'''
 s="leetcode"
 vowels="AEIOUaeiou"
 i=0
@@ -28,3 +19,21 @@ while i<j:
 s=''.join(s)
 print(s)
         
+'''
+Example 1:
+
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+Example 2:
+
+Input: s = "race a car"
+Output: false
+Explanation: "raceacar" is not a palindrome.
+Example 3:
+
+Input: s = " "
+Output: true
+Explanation: s is an empty string "" after removing non-alphanumeric characters.
+Since an empty string reads the same forward and backward, it is a palindrome.
+'''
