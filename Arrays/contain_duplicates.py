@@ -15,7 +15,7 @@ if flag:
 else:
     print("False")
     
-    
+#another logic
 nums=[1,2,3,4]
 flag=False
 for i in range(len(nums)-1):
