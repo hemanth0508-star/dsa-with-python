@@ -12,5 +12,5 @@ for i in nums:
 m=max(freq.values())
 for key in freq:
   if freq[key]==m:
-    print("key")
+    print(key)
     break
