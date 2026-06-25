@@ -4,8 +4,8 @@ You must do this by modifying the input array in-place with O(1) extra memory.
 '''
 
 s=["h","e","l","l","o"]
-a=[]
-for i in range(len(s)-1,-1,-1):
-    a.append(s[i])
-print(a)
+rev=""
+for ch in s:
+    rev=ch+rev
+print(list(rev))
     
