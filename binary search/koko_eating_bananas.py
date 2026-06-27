@@ -11,8 +11,8 @@ left=1
 m=max(piles)
 while left<=m:
   k=(left+m)//2
+  time=0
   for i in range(len(piles)):
-    time=0
     a=piles[i]
     time+=(a+k-1)//k
     # if a%k==0:
