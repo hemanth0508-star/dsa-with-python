@@ -14,17 +14,6 @@ for i in range(n):
 print(ans)
 
 
-
-
-
-
-
-
-
-
-
-
-
 #brut force for this prblm
 ans=[]
 for i in range(len(temperatures)):
