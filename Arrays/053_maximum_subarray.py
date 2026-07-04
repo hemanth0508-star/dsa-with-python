@@ -18,3 +18,5 @@ for i in range(1,len(nums)):
         start=temp
         end=i
 print(max,nums[start:end+1])
+
+#here start and end  used to return the values of maximum subarray
