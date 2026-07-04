@@ -11,3 +11,5 @@ for i in range(len(nums)-1):
             print(i,j)
             break
 print()
+
+#we can do this using while loop also
