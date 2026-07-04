@@ -25,3 +25,5 @@ while p2>=0:
     p2-=1
     p-=1
 print(nums1)
+
+#we can do this using another for loops also
