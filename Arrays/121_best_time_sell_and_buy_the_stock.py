@@ -12,3 +12,5 @@ for i in range(1,len(prices)):
     elif profit<prices[i]-buy:
         profit=prices[i]-buy
 print(profit)
+
+#this is small program to find less price day of stock
