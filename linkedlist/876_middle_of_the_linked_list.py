@@ -22,3 +22,5 @@ class Solution:
         head=curr
         return head
 #code file
+# Input: head = [1,2,3,4,5]
+# Output: [3,4,5]
