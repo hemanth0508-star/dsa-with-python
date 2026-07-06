@@ -29,3 +29,6 @@ for key in cons_freq:
   if cons_freq[key]>max_cons:
     max_cons=cons_freq[key]
 print(max_vowel + max_cons)
+
+# Input: s = "successes"
+# Output: 6

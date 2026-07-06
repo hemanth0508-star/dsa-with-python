@@ -16,3 +16,6 @@ for key in freq:
   if freq[key]==m:
     l_f[key]=1
 print( min(l_f.keys()))
+
+# Input: n = 1553322
+# Output: 1

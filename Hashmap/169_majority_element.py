@@ -14,3 +14,4 @@ for key in freq:
   if freq[key]==m:
     print(key)
     break
+#this is sloved by the hashset
