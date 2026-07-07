@@ -13,4 +13,6 @@ for i in range(1,len(prices)):
         profit=prices[i]-buy
 print(profit)
 
-#this is small program to find less price day of stock
+ #this is small program to find less price day of stock
+# Input: prices = [7,1,5,3,6,4]
+# Output: 5
