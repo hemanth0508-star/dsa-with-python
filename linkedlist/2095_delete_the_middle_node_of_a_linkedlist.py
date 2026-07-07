@@ -26,4 +26,5 @@ class Solution:
             a-=1
         curr.next=curr.next.next
         return head
-        
+# Input: head = [1,3,4,7,1,2,6]
+# Output: [1,3,4,1,2,6]
