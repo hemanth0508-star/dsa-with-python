@@ -14,3 +14,5 @@ for i in range(n):
     if flag:
         print(nums[i])
         break
+#Input: nums = [2,2,1]
+#Output: 1
