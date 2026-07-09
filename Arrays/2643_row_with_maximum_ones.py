@@ -16,3 +16,5 @@ for i in range(len(mat)):
         max_ones=count
         ind=i
 print(ind,max_ones)
+#Input: mat = [[0,1],[1,0]]
+#Output: [0,1]
