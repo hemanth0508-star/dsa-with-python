@@ -12,3 +12,5 @@ for i in range(n):
     if count>n//2:
         print(nums[i])
         break
+#Input: nums = [3,2,3]
+#Output: 3
