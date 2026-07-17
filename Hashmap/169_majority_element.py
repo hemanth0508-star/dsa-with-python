@@ -15,3 +15,5 @@ for key in freq:
     print(key)
     break
 #this is sloved by the hashset
+# Input: nums = [3,2,3]
+# Output: 3
