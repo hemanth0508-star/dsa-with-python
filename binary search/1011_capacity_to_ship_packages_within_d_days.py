@@ -24,3 +24,6 @@ while left<=right:
   else:
     left=k+1
 return ans
+
+# input =  [1,2,3,4,5,6,7,8,9,10]
+# output = 
