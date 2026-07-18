@@ -29,5 +29,6 @@ while left<=right:
   else:
     left=k+1
 print(ans)
-    
-      
+
+
+# input =  [1,3,2]
