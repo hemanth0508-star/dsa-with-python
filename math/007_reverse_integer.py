@@ -16,3 +16,5 @@ if temp<0:
 if i < -2**31 or i > 2**31 - 1:
   print( 0)
 print(i)
+# Input: x = 123
+# Output: 321
