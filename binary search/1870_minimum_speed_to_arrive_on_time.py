@@ -31,4 +31,5 @@ while left<=right:
 print(ans)
 
 
-# input =  [1,3,2]
+# Input: dist = [1,3,2], hour = 6
+# Output: 1
