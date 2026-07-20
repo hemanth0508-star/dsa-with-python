@@ -18,5 +18,5 @@ for key in freq:
     ans+=freq[key]
 print( ans)
 
-# input =[1,2,2,3,1,4]
-# output = [6]
+# Input: nums = [1,2,2,3,1,4]
+# Output: 4
