@@ -6,3 +6,9 @@ nums=[1,2,3,4,2,5,7,8,2,3,6]
 
 nums.sort()
 print(max(nums[0]*nums[1]*nums[-1],nums[-1]*nums[-2]*nums[-3]))
+
+# Input: nums = [1,2,3]
+# Output: 6
+
+# Input: nums = [1,2,3,4]
+# Output: 24
