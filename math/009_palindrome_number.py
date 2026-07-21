@@ -13,3 +13,5 @@ if i==temp:
 else:
   print("False")
   
+# Input: x = 121
+# Output: true
