@@ -28,6 +28,7 @@ if len(stack)!=0:
 else:
     print("True")
 
-
+# Input: s = "()[]{}"
+# Output: true
 
         
