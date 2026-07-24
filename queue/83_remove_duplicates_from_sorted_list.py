@@ -16,3 +16,6 @@ class Solution:
             else:
                 curr=curr.next
         return head
+        
+# Input: head = [1,1,2,3,3]
+# Output: [1,2,3]

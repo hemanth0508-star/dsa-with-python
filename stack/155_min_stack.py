@@ -18,3 +18,9 @@ class MinStack:
     def getMin(self) -> int:
         return self.stack[-1][1]
 
+# Input
+# ["MinStack","push","push","push","getMin","pop","top","getMin"]
+# [[],[-2],[0],[-3],[],[],[],[]]
+
+# Output
+# [null,null,null,null,-3,null,0,-2]

@@ -29,5 +29,7 @@ while left<=right:
   else:
     left=k+1
 print(ans)
-    
-      
+
+
+# Input: dist = [1,3,2], hour = 6
+# Output: 1

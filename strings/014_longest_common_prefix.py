@@ -17,3 +17,6 @@ for i in range(len(strs[0])):
     prefix = prefix + ch
 
 print(prefix)
+
+# Input: strs = ["flower","flow","flight"]
+# Output: "fl"

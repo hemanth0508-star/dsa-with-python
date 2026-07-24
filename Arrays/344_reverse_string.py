@@ -9,3 +9,5 @@ for i in range(len(s)-1,-1,-1):
     a.append(s[i])
 print(a)
     
+#Input: s = ["h","e","l","l","o"]
+#output: ["o","l","l","e","h"]
