@@ -23,3 +23,6 @@ while i<j:
 s=''.join(s)
 print(s)
         
+
+#Input: s = "IceCreAm"
+#Output: "AceCreIm"
