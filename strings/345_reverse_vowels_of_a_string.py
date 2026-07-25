@@ -21,3 +21,6 @@ for ch in s:
         ans += ch
 
 print(ans)
+
+#Input: s = "IceCreAm"
+#Output: "AceCreIm"
