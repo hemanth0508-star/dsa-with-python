@@ -25,3 +25,5 @@ for i in n1:
 # '''
 # Input: nums1 = [1,2,2,1], nums2 = [2,2]
 # Output: [2]
+
+#go up ksbsjgaisjshs hu fi udh w go ich sa
