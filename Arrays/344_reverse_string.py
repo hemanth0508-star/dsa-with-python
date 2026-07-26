@@ -11,3 +11,5 @@ print(a)
     
 #Input: s = ["h","e","l","l","o"]
 #output: ["o","l","l","e","h"]
+
+#gshsjsvsksjbgsksj for tjwgawgwkwg Hi wjsje Hi
