@@ -30,3 +30,6 @@ print(ans)
 
 # Input: nums = [1,2,2,3,3,3,3,4], k = 2
 # Output: 16
+
+
+#gh hgi jagakagsjsbskkabskwlsvshskksmsms
