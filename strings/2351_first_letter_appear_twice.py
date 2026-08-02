@@ -13,5 +13,5 @@ for ch in s:
         break
     else:
         temp+=ch
-
+#over
         
