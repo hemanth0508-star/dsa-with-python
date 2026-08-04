@@ -11,4 +11,7 @@ while left<right:
     left+=1
     right-=1
 print(s)
-    
+
+
+#Input: s = ["h","e","l","l","o"]
+#output: ["o","l","l","e","h"]

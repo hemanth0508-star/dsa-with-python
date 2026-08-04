@@ -20,4 +20,6 @@ class Solution:
             if slow==fast:
                 return True
         return False
-#loops 
+# #loops 
+# Input: head = [3,2,0,-4], pos = 1
+# Output: true

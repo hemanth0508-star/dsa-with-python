@@ -10,4 +10,5 @@ if rev==res:
     print("given string is a valid palindrome")
 else:
     print("given string is not a valid palindrome")
-    
+
+#over

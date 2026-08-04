@@ -24,3 +24,7 @@ while left<=right:
   else:
     left=k+1
 return ans
+
+# Input: weights = [1,2,3,4,5,6,7,8,9,10], days = 5
+# Output: 15
+#over

@@ -27,3 +27,8 @@ print(ans)
 #     if c%k==0:
 #         ans+=i
 # print(ans)
+
+# Input: nums = [1,2,2,3,3,3,3,4], k = 2
+# Output: 16
+
+

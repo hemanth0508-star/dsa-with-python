@@ -14,4 +14,6 @@ class Solution:
             rev=curr
             curr=next_node
         return rev
-        
+
+# Input: head = [1,2,3,4,5]
+# Output: [5,4,3,2,1]

@@ -23,4 +23,8 @@ return True
 # Example
 print(isAnagram("anagram", "nagaram"))  # True
 print(isAnagram("rat", "car"))          # False
-'''
+# '''
+# Input: s = "anagram", t = "nagaram"
+# Output: true
+
+# over

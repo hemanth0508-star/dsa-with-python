@@ -30,3 +30,5 @@ class Solution:
         if curr2:
             curr3.next=curr2
         return l3.next        
+# Input: list1 = [1,2,4], list2 = [1,3,4]
+# Output: [1,1,2,3,4,4]

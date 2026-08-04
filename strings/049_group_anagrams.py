@@ -15,3 +15,4 @@ for string in strs:
         hash_map[sorted_string]=[string]
 print(hash_map)
 print(hash_map.values())        
+#over
