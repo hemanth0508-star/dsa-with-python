@@ -16,3 +16,4 @@ for i in range(n):
         break
 #Input: nums = [2,2,1]
 #Output: 1
+# over
