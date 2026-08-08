@@ -16,3 +16,4 @@ print(profit)
  #this is small program to find less price day of stock
 # Input: prices = [7,1,5,3,6,4]
 # Output: 5
+# over
