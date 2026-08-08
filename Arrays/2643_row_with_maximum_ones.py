@@ -18,3 +18,4 @@ for i in range(len(mat)):
 print(ind,max_ones)
 #Input: mat = [[0,1],[1,0]]
 #Output: [0,1]
+# over
