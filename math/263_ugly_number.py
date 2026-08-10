@@ -13,3 +13,4 @@ class Solution:
         return n==1
 # Input: n = 6
 # Output: true
+# over
