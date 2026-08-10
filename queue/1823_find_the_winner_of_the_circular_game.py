@@ -29,3 +29,5 @@ print(q[-1])
 # 7) Friend 1 leaves the circle. Next start is friend 3.
 # 8) Count 2 friends clockwise, which are friends 3 and 5.
 # 9) Friend 5 leaves the circle. Only friend 3 is left, so they are the winner.
+
+# over
