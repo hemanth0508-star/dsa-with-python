@@ -24,4 +24,5 @@ for ch in s[st:end+1]:
 ans=" "+word+ans
 
 print(ans.strip())
-    
+
+# over
