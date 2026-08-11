@@ -16,7 +16,6 @@ while i<j:
     if s[i] in vowels and s[j] in vowels:
         if i<j:
             temp=s[i]   
-# over
             s[i]=s[j]
             s[j]=temp
             i+=1
@@ -27,3 +26,4 @@ print(s)
 
 #Input: s = "IceCreAm"
 #Output: "AceCreIm"
+# over
