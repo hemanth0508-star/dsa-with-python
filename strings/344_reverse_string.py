@@ -9,3 +9,4 @@ for ch in s:
     rev=ch+rev
 print(list(rev))
     
+# over
