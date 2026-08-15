@@ -25,4 +25,3 @@ class MinStack:
 # Output
 # [null,null,null,null,-3,null,0,-2]
 
-#over
