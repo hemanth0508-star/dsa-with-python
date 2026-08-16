@@ -22,4 +22,3 @@ print(max,nums[start:end+1])
 # #here start and end  used to return the values of maximum subarray
 # Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
 # Output: 6
-# over
