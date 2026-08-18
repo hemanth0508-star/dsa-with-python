@@ -32,4 +32,3 @@ print(ans)
 # Output: 16
 
 
-# over 
